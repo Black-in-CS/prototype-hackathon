@@ -21,3 +21,5 @@
 > Project Teams cards, with descriptions revealed either on hover or separate page
 
 >  Winning project featured w/ info?
+
+>  "Spotlight" for runner ups?
