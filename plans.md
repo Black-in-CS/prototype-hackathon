@@ -22,4 +22,4 @@
 
 >  Winning project featured w/ info?
 
->  "Spotlight" for runner ups?
+>  Project "Spotlight" for runner ups?
