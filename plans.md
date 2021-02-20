@@ -1,6 +1,7 @@
 ### Home Page Idea #1
 - General
 > One pager?
+- Name: LaunchCS
 
 - Navbar
 > About, Project Tracks (Tracks), FAQ, Schedule, Register
