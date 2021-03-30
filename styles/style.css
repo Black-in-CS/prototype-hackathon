@@ -82,6 +82,10 @@ body {
     margin-left: 2rem;
   }
 
+  .navresp {
+    margin-top: 2rem;
+  }
+	
   .navbar-nav {
     color: #eb8d3b !important;
     background: #fff !important;
