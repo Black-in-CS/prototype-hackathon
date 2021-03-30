@@ -234,3 +234,33 @@ hr {
   margin-left: 15vw;
   margin-right: 15vw;
 }
+
+.registersoon {
+  font-family: "Inter", sans-serif !important;
+  font-weight: 800;
+  font-size: 2rem;
+  color: #ed8e3b;
+}
+
+.footerbanner {
+    display: flex;
+    height: auto;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: #d9d9d9;
+    color: #403e3b;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: auto;
+    position: relative;
+    top: 0; 
+    bottom: 0;
+    visibility: visible;
+    justify-content: center;
+    align-items: center;
+}
