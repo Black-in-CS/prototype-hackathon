@@ -56,11 +56,12 @@ body {
 
 .navtitle {
   margin-top: 1.5rem;
-  color: #ed8e3b !important;
+  color: #fff !important;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 2rem;
 }
+
 .nav-item .nav-link {
   font-family: "Inter", sans-serif;
   font-size: 1rem;
